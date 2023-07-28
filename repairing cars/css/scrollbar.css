@@ -1,0 +1,12 @@
+/* скроллбар */
+::-webkit-scrollbar {
+    width: 10px;
+    background-color: #fff;
+}
+
+/* ползунок скроллбара */
+::-webkit-scrollbar-thumb {
+    background-color: #939191;
+    border-radius: 9em;
+    box-shadow: inset 1px 1px 10px #fff;
+}
